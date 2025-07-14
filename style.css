@@ -99,6 +99,15 @@ header {
     display: none;
   }
 }
+/* Example spacing */
+header {
+  padding: 20px;
+}
+
+.hero {
+  margin-top: 80px; /* creates space below the header */
+}
+
 
 /* Hero Section */
 .hero {
